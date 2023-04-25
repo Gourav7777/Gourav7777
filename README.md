@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning ** React js Frontend & Node js backend development**
 - 💬 Ask me about **ReactJs,JavaScript,HTML,CSS,NodeJS,ExpressJS,MongoDB**
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1SwaqlQIIfabg-mgmSySgWnfEmDxgkRz5/view?usp=sharing](https://drive.google.com/file/d/1SwaqlQIIfabg-mgmSySgWnfEmDxgkRz5/view?usp=sharing)**
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1-kLI2GlQwD2lV4eSn2AstCPUOb5osvyI/view?usp=sharing](https://drive.google.com/file/d/1-kLI2GlQwD2lV4eSn2AstCPUOb5osvyI/view?usp=sharing)**
 - 👨‍💻 All of my projects are available at **[https://gourav7777.github.io/](https://gourav7777.github.io/)**
 
 
