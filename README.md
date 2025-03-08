@@ -3,7 +3,7 @@
 
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+Gourav Bundiwal;An+Aspiring+Full+Stack+Web+Developer!&font=Fira%20Code&center=true&width=700&height=40&weight=700&size=25&duration=2000&pause=5000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+Gourav Bundiwal;A Full+Stack+Developer!&font=Fira%20Code&center=true&width=700&height=40&weight=700&size=25&duration=2000&pause=5000">
   <p>A Passionate Full Stack Web Developer from India</p>
 </h3>
 
