@@ -41,7 +41,7 @@
 ### 📊 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gourav7777&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Gourav7777&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Gourav7777's GitHub Streak" />
 </p>
 
 
