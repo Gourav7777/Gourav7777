@@ -38,11 +38,22 @@
 </p>
 
 
-<p><img align="left" margin-top="20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gourav7777&show_icons=true&locale=en&layout=compact" alt="code0403" /></p>
+### 📊 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gourav7777&theme=tokyonight&hide_border=true" />
+</p>
 
 
 
-<p>&nbsp;<img align="center" margin-top="20px" src="https://github-readme-stats.vercel.app/api?username=Gourav7777&show_icons=true&locale=en" alt="code0403" /></p>
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gourav7777&show_icons=true&theme=tokyonight" alt="Gourav7777's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gourav7777&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Gourav7777&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
